@@ -1,0 +1,30 @@
+.highlighted {
+  color: #ffffff;
+  background-color: #db1c48;
+}
+
+.not-highlighted {
+  color: #db1c48;
+  background-color: #ffffff;
+}
+
+.buttons {
+  font-family: 'Roboto';
+  border: 1px solid #db1c48;
+  border-radius: 20px;
+  padding: 10px;
+  height: 40px;
+  width: 100px;
+  text-align: center;
+  cursor: pointer;
+  margin: 10px;
+}
+
+.button-container {
+  list-style-type: none;
+}
+
+.list-container {
+  list-style-type: none;
+  margin-left: 40px;
+}
